@@ -1,0 +1,13 @@
+get height
+
+build pyramid accordingly:
+    first line      n-1 spaces | 1 hashes
+    second line     n-2 spaces | 2 hashes
+    third line      n-3 spaces | 3 hashes
+    ...             ...
+    nth line        n-n spaces | n hashes
+
+outer for-loop: print n lines
+
+first inner for-loop: print spaces
+second inner for-loop: print hashes
