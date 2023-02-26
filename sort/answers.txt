@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: It is on average the slowest algorithm when the data is not sorted. However, it performs really well when the data is already sorted.
+
+sort2 uses: merge sort
+
+How do you know?: It is on average the fastest algorithm, no matter whether the data is sorted or not.
+
+sort3 uses: selection sort
+
+How do you know?: This algorithm is on average slower than sort2, but faster than sort1. However, when the data is already sorted it performs worst.
